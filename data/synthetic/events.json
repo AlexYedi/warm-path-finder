@@ -1,0 +1,7 @@
+[
+  {"id": "e-01", "Event Name": "AI Engineers NYC Meetup", "Event Date": "2026-09-24", "Event Status": "attended"},
+  {"id": "e-02", "Event Name": "Data Infra Breakfast", "Event Date": "2026-08-20", "Event Status": "post_complete"},
+  {"id": "e-03", "Event Name": "Agents in Production Summit", "Event Date": "2026-05-12", "Event Status": "attended"},
+  {"id": "e-04", "Event Name": "Model Evals Roundtable", "Event Date": "2026-09-30", "Event Status": "not_attending"},
+  {"id": "e-05", "Event Name": "GTM Engineering Night", "Event Date": "2025-07-15", "Event Status": "attended"}
+]

@@ -1,0 +1,8 @@
+[
+  {"id": "c-01", "Company Name": "Northwind Models", "Industry / Space": ["AI/ML"], "Funding Stage": "Series C"},
+  {"id": "c-02", "Company Name": "Halcyon Data", "Industry / Space": ["Data Infrastructure"], "Funding Stage": "Series B"},
+  {"id": "c-03", "Company Name": "Lattice Agents", "Industry / Space": ["AI/ML", "Developer Tools"], "Funding Stage": "Series A"},
+  {"id": "c-04", "Company Name": "Quarry Labs", "Industry / Space": ["AI/ML"], "Funding Stage": "Seed"},
+  {"id": "c-05", "Company Name": "Meridian Ventures", "Industry / Space": ["VC/Investment"]},
+  {"id": "c-06", "Company Name": "Tessellate", "Industry / Space": ["Enterprise Software"], "Funding Stage": "Series D"}
+]

@@ -1,0 +1,10 @@
+[
+  {"id": "p-01", "Name": "Priya Natarajan", "Current Title": "Head of Partnerships", "Company": ["c-01"], "Events": ["e-01"], "Role Context": ["contact", "attendee"], "Notes": "Talked eval tooling at the meetup."},
+  {"id": "p-02", "Name": "Jordan Ellis", "Current Title": "Account Executive", "Company": ["c-01"], "Events": ["e-01"], "Role Context": ["attendee"]},
+  {"id": "p-03", "Name": "Dana Okafor", "Current Title": "VP Sales", "Company": ["c-02"], "Events": ["e-02"], "Role Context": ["attendee"]},
+  {"id": "p-04", "Name": "Marcus Lee", "Current Title": "Partner", "Company": ["c-05"], "Events": ["e-01", "e-02"], "Role Context": ["contact"]},
+  {"id": "p-05", "Name": "Sofia Brandt", "Current Title": "CTO", "Company": ["c-03"], "Events": ["e-03"], "Role Context": ["speaker"]},
+  {"id": "p-06", "Name": "Theo Vance", "Current Title": "Founder", "Company": ["c-04"], "Events": ["e-04"], "Role Context": ["attendee"]},
+  {"id": "p-07", "Name": "Rina Castillo", "Current Title": "Solutions Engineer", "Company": ["c-06"], "Events": ["e-05"], "Role Context": ["attendee"]},
+  {"id": "p-08", "Name": "Sam Whitaker", "Current Title": "Community Lead", "Company": ["c-05"], "Events": ["e-03", "e-05"], "Role Context": ["contact", "organizer"]}
+]
