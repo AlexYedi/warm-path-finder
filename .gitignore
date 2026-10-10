@@ -1,0 +1,9 @@
+# Real network data and run output never enter git
+data/real/
+out/
+.env
+.env.*
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
