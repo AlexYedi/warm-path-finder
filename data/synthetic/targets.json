@@ -1,0 +1,7 @@
+[
+  {"company_id": "c-01", "priority": 1, "why": "they are scaling an AI-native sales team in NYC"},
+  {"company_id": "c-02", "priority": 1, "why": "their buyers are data platform leaders, the room I sell into"},
+  {"company_id": "c-03", "priority": 2, "why": "agent deployment is moving from pilots to production there"},
+  {"company_id": "c-04", "priority": 2, "why": "early team, first GTM hires coming"},
+  {"company_id": "c-06", "priority": 3, "why": "enterprise motion with a growing technical sales bench"}
+]
